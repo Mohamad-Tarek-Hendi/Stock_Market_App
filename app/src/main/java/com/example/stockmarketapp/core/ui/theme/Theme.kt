@@ -1,4 +1,4 @@
-package com.example.stockmarketapp.ui.theme
+package com.example.stockmarketapp.core.ui.theme
 
 import android.app.Activity
 import android.os.Build
